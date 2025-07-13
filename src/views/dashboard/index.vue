@@ -2,7 +2,7 @@
   <div class="dashboard-container">
     <div class="dashboard-text">
       name: {{ name }}
-      <div>hahahahhah</div>
+      <div>哈哈哈哈</div>
     </div>
   </div>
 </template>
